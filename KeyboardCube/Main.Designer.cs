@@ -301,8 +301,6 @@
 			this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.Name = "Main";
 			this.Text = "Form1";
-			this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Main_KeyPress);
-			this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Main_KeyUp);
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
